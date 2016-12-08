@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "992929FB5FA308F0588E0DEDFA08244382D1CE36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "992929FB5FA308F0588E0DEDFA08244382D1CE36" : 9223372036854775807,
+    "A9D85AFDCDC0FAC0EF6158BA57DAD4BB93D02390" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7775B179-ECAA-4A07-B3FC-203B33D5C021",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "992929FB5FA308F0588E0DEDFA08244382D1CE36" : "LXMRevealDemo\/",
+    "A9D85AFDCDC0FAC0EF6158BA57DAD4BB93D02390" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LXMRevealDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LXMRevealDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Phelthas\/LXMRevealDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "992929FB5FA308F0588E0DEDFA08244382D1CE36"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/taotaoFighting\/totalSpace.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9D85AFDCDC0FAC0EF6158BA57DAD4BB93D02390"
+    }
+  ]
+}
